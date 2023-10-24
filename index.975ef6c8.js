@@ -27091,11 +27091,11 @@ var _stylesCss = require("./styles.css");
     title: "Web Designer & Content Creator & Product Engineer",
     email: "brundahareesh01@gmail.com",
     gitHub: "https://github.com/SURAJMH2001",
-    instagram: "Microsoft",
+    instagram: "https://www.instagram.com/surajmh/",
     linkedIn: "https://www.linkedin.com/in/suraj-m-h",
-    medium: "",
-    twitter: "microsoft",
-    youTube: "Code"
+    medium: "https://victorious-grass-03d19bd00.4.azurestaticapps.net",
+    twitter: "https://x.com/SurajMH2001?s=09",
+    youTube: "https://www.instagram.com/surajmh/"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
